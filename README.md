@@ -1,5 +1,19 @@
 <h1>ronniEbook-web</h1>
 <h3>Build a reading book website with JHIPSTER for Graduation: </h3>
-<h5>- Front-end: React Typescript</h5>
-<h5>- Back-end: Java Spring Boot </h5>
-<h5>- Database: MySQL</h5>
+
+### Languages:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
+</div>
+
+### Framework:
+<div>
+   <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" title="Spring" alt="Spring" width="40" height="40"/>&nbsp;
+</div>
+
+### Database:
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="Mysql" alt="Mysql" width="40" height="40"/>&nbsp;
+</div>
